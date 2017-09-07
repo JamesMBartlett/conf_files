@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/james/src/alexa/eig_brain'
+let g:netrw_dirhist_2='/home/james/src/ML@B/education/decal-docker'
+let g:netrw_dirhist_3='/home/james/src/classes/164/pa1-cool-practice-JamesMBartlett/examples'
